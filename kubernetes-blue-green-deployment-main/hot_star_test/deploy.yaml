@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: hotstarcontainer
-        image: dixit7/hotstar:v3
+        image: dixit7/nextjs-app:v1
         ports:
         - containerPort: 3000
