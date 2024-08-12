@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: hotstarcontainer
-        image: 050515008040.dkr.ecr.us-east-1.amazonaws.com/test-repositories:v22
+        image: 050515008040.dkr.ecr.us-east-1.amazonaws.com/test-repositories:v23
         ports:
         - containerPort: 3000
